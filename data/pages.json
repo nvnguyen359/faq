@@ -1,0 +1,33 @@
+[
+    {
+        "page": "mirror-help",
+        "data": [
+            {
+                "title": "How to mirror your iPhone/iPad screens to your TVs",
+                "content": "<p>You can mirror your iPhone or iPad screens to your TVs by doing follows:</p> <ul><li>Connect your TV to your home wifi network</li> <li>Connect your iPhone or iPad to the same wifi network (it must be the same)</li> <li>From GoMirror Home screen, tap `Connect` button to open Connect screen</li> <li>From Connect screen, select the TV you want to connect.</li> <li><div>If your TV does not display, try followings:</div><ol> <li>Verify that they share the same wifi network (e.g 2G and 5G are different)</li> <li>Plug the TV power cable out, wait for 30s then plug it in again.</li> <li>Restart your iPhone/iPad</li> <li>Restart the wifi router</li></ol></li></ul>  <p>Please note that at the moment, GoMirror only supports LG TVs with webOS, Samsung TV with Tizen tvOS, Roku devices that support 4K, and Kodi TV (Mac, PC, Linux app). For other TV make models, since not fully tested, GoMirror's compatibility is limited, depends on the TVs' hardware and IO protocols</p>"
+            },
+            {
+                "title": "How to mirror your iPhone/iPad screens to your Mac computers",
+                "content": "<p>You can mirror your iPhone or iPad screens to your TVs by doing follows:</p> <ul><li>Connect your TV to your home wifi network</li> <li>Connect your iPhone or iPad to the same wifi network (it must be the same)</li> <li> From GoMirror Home screen, tap `Connect` button to open Connect screen</li> <li>From Connect screen, select the TV you want to connect.</li> <li><div>If your TV does not display, try followings:</div><ol> <li>Verify that they share the same wifi network (e.g 2G and 5G are different)</li> <li>Plug the TV power cable out, wait for 30s then plug it in again.</li> <li>Restart your iPhone/iPad</li> <li>Restart the wifi router</li></ol></li></ul> <p>Please note that at the moment, GoMirror only supports LG TVs with webOS, Samsung TV with Tizen tvOS, Roku devices that support 4K, and Kodi TV (Mac, PC, Linux app). For other TV make models, since not fully tested, GoMirror's compatibility is limited, depends on the TVs' hardware and IO protocols</p>"
+            },
+            {
+                "title": "How to mirror your iPhone/iPad screens to your PC (Windows 10, Windows 7)",
+                "content": "<p>You can mirror your iPhone or iPad screens to your TVs by doing follows:</p><ul> <li>Connect your TV to your home wifi network</li>  <li>Connect your iPhone or iPad to the same wifi network (it must be the same)</li>  <li>From GoMirror Home screen, tap `Connect` button to open Connect screen</li>  <li>From Connect screen, select the TV you want to connect.</li>  <li><div>If your TV does not display, try followings:</div> <ol> <li>Verify that they share the same wifi network (e.g 2G and 5G are different)</li> <li>Plug the TV power cable out, wait for 30s then plug it in again.</li> <li>Restart your iPhone/iPad</li> <li>Restart the wifi router</li> </ol></li> <p>Please note that at the moment, GoMirror only supports LG TVs with webOS, Samsung TV with Tizen tvOS, Roku devices that support 4K, and Kodi TV (Mac, PC, Linux app). For other TV make models, since not fully tested, GoMirror's compatibility is limited, depends on the TVs' hardware and IO protocols</p>"
+            }
+        ]
+    },
+    {
+        "page": "feature-help",
+        "data": [
+            {
+                "title": "Which cloud storage services does <b>&#160;Music Cast&#160;</b>  and <b> &#160;Slideshow &#160;</b> &#32; support",
+                "content": "<p>For the moment, GoMirror can import music from those cloud storate services:</p> <ul> <li>iCloud Files (default)</li> <li>Dropbox</li> <li>Google Drive</li>  <li>Microsoft OneDrive</li> <li>Box (box.com)</li></ul>"
+            },
+            {
+                "title": "How can I import music from Google Drive or Dropbox",
+                "content": "<p>In order to import music from Google Drive (or Dropbox) into GoMirror, please follow:</p> <ul> <li> Install Google Drive app on your iPhone/iPad</li>  <li>Open Google Drive (Dropbox), login with your account</li>  <li>When casting music, select <b>Import</b> to open the <b>Document Picker</b> screen</li>  <li>On the bottom menu, find <b>Browse</b> button and tap it to return to the main screen</li>  <li>On the <b>Locations</b> section, lookup for Google Drive (or Dropbox) icon, tap it to browse the cloud storage screen</li> <li> <p>If you don't see it in the <b>Locations</b>:</p> <ol> <li>Tap the &rdquo;...&rdquo icon (edit button) on the top right corner</li>  <li>Tab <b>Edit</b></li>  <li>Find your services you want to add and turn it on</li>  </ol></li><li>Still not clear how to do it? Please watch the following instruction video:</li></ul>",
+                "video": "https://www.youtube.com/embed/_SXSoimaLko"
+            }
+        ]
+    }
+]

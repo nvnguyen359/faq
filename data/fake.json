@@ -1,0 +1,211 @@
+[
+    {
+        "category": "Subscription",
+        "data": [
+            {
+                "key": "02-how-to-change-subscription",
+                "value": {
+                    "title": "How to change subscription from Trial (weekly) to other plan",
+                    "content": "All of your subscriptions, including Apple Music, Apple News+, Apple Arcade, Apple TV and all other apps, are managed by Apple iTunes. Please follow Apple's instructions below in order to access your subscriptions settings. From there, you'll be able to change your subscription.",
+                    "linkApp": "https://support.apple.com/en-us/HT202039",
+                    "ps": "We're sorry for the incoveniences and Thank you for using our service."
+                }
+            },
+            {
+                "key": "03-how-to-cancel-subscription",
+                "value": {
+                    "title": "How to cancel your subscription",
+                    "content": "All of your subscriptions, including Apple Music, Apple News+, Apple Arcade, Apple TV and all other apps, are managed by Apple iTunes. Please follow Apple's instructions below in order to cancel your subscriptions:",
+                    "linkApp": "https://support.apple.com/en-us/HT202039",
+                    "ps": "P/S: We're sorry for the incoveniences and Thank you for using our service."
+                }
+            },
+            {
+                "key": "04-how-to-request-a-refund",
+                "value": {
+                    "title": "How to request a refund",
+                    "content": "All of your payment are managed by Apple iTunes. Please follow the instructions to request a refund:",
+                    "linkApp": "https://support.apple.com/en-us/HT204084",
+                    "ps": "P/S: We're sorry for the incoveniences and Thank you for using our service."
+                }
+            }
+        ]
+    },
+    {
+        "category": "Screen Mirroring",
+        "data": [
+            {
+                "key": "11-what-devices-does-gomirror-support",
+                "value": {
+                    "title": "What devices does GoMirror support",
+                    "content": "<p>For the moment, GoMirror fully supports:</p><ul><li>LG SmartTV with webOS</li> <li>Samsung SmartTV with Tizen tvOS</li> <li>Roku devices that support 4K</li> <li>Kodi TV that has UPnP configured (Mac & PC)</li></ul>",
+                    "kodi": {
+                        "title": "Kodi TV",
+                        "content": "To see how to configure your computers (Mac & PC) to works with GoMirror, please see videos below"
+                    },
+                    "linkApp": "",
+                    "ps": ""
+                }
+            },
+            {
+                "key": "12-how-to-mirror-to-your-tv",
+                "value": {
+                    "title": "How to mirror your iPhone and iPad screens to your TV",
+                    "content": "<p>You can mirror your iPhone or iPad screens to your TVs by doing follows:</p> <ul> <li>Connect your TV to your home wifi network</li>  <li>Connect your iPhone or iPad to the same wifi network (it must be the same)</li> <li>From GoMirror Home screen, tap `Connect` button to open Connect screen</li> <li>From Connect screen, select the TV you want to connect.</li> <li><p>If your TV does not display, try followings:</p><ol><li> Verify that they share the same wifi network (e.g 2G and 5G are different)</li> <li>Plug the TV power cable out, wait for 30s then plug it in again.</li>  <li> Restart your iPhone/iPad</li> <li>Restart the wifi router</li> </ol></li></ul>  ",
+                    "kodi": {
+                        "title": "",
+                        "content": "Please note that at the moment, GoMirror only supports LG TVs with webOS, Samsung TV with Tizen tvOS, Roku devices that support 4K, and Kodi TV (Mac, PC, Linux app). For other TV make models, since not fully tested, GoMirror's compatibility is limited, depends on the TVs' hardware and IO protocols"
+                    },
+                    "linkApp": "",
+                    "ps": ""
+                }
+            },
+            {
+                "key": "13-how-to-mirror-to-your-mac",
+                "value": {
+                    "title": "How to mirror your iPhone and iPad screens to Mac computers",
+                    "content": "You can easily update GoMirror from your Apple Store. Please note if you received a message that isn't supported by your version of GoMirror, you'll need to update GoMirror. We encourage you to always use the latest version of GoMirror. Latest versions contain the newest features and bug fixes.",
+                    "kodi": {
+                        "title": "iPhone & iPad",
+                        "content": "Go to the <b>App Store</b> and search for GoMirror. Tap <b>UPDATE</b> next to <b>GoMirror</b>."
+                    }
+                }
+            },
+            {
+                "key": "14-how-to-mirror-to-your-pc",
+                "value": {
+                    "title": "How to mirror your iPhone and iPad screens to PC (Windows 7 & Windows 10)",
+                    "content": "You can easily update GoMirror from your Apple Store. Please note if you received a message that isn't supported by your version of GoMirror, you'll need to update GoMirror. We encourage you to always use the latest version of GoMirror. Latest versions contain the newest features and bug fixes.",
+                    "kodi": {
+                        "title": "iPhone & iPad",
+                        "content": "Go to the <b>App Store</b> and search for GoMirror. Tap <b>UPDATE</b> next to <b>GoMirror</b>."
+                    }
+                }
+            },
+            {
+                "key": "15-why-the-delays-are-different",
+                "value": {
+                    "title": "Why are the delay different between TVs",
+                    "content": "You can easily update GoMirror from your Apple Store. Please note if you received a message that isn't supported by your version of GoMirror, you'll need to update GoMirror. We encourage you to always use the latest version of GoMirror. Latest versions contain the newest features and bug fixes.",
+                    "kodi": {
+                        "title": "iPhone & iPad",
+                        "content": "Go to the <b>App Store</b> and search for GoMirror. Tap <b>UPDATE</b> next to <b>GoMirror</b>."
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "category": "Music Cast",
+        "data": [
+            {
+                "key": "20-what-can-i-do-with-music-cast",
+                "value": {
+                    "title": "What can I do with Music Cast",
+                    "content": "<p> The Music Cast feature help you to:</p> <ul><li>Import your music from your cloud storage services</li> <li>Cast them to your TV</li></ul> "
+                }
+            },
+            {
+                "key": "21-what-kind-of-cloud-storage-services-does-music-cast-support",
+                "value": {
+                    "title": "What kind of cloud storage services does Music Cast support",
+                    "content": "<p>For now, GoMirror Music Cast supports almost every popular cloud storgage services, including:</p><ul><li>iOS iCloud Files (default)</li><li>Dropbox</li><li>Google Drive</li><li>Microsoft OneDrive</li><li>Box (box.com)</li></ul>"
+                }
+            },
+            {
+                "key": "22-how-can-i-import-music-from-google-drive",
+                "value": {
+                    "title": "How can I import music from Google Drive to GoMirror",
+                    "content": "<p>In order to import music from Google Drive (or Dropbox) into GoMirror, please follow:</p> <ul><li>Install Google Drive app on your iPhone/iPad</li><li>Open Google Drive (Dropbox), login with your account</li><li>When casting music, select <b>Import</b> to open the <b>Document Picker</b> screen</li><li>On the bottom menu, find <b>Browse</b> button and tap it to return to the main screen</li><li>On the <b>Locations</b> section, lookup for Google Drive (or Dropbox) icon, tap it to browse the cloud storage screen</li><li><p>If you don't see it in the <b>Locations</b>:</p><ol><li>Tap the &#133; icon (edit button) on the top right corner</li><li> Tap  &rdquo;Edit&rdquo;</li><li>Find your services you want to add and turn it on</li><li><p>Still not clear how to do it? Please watch the following instruction video:</p></li></ul>",
+                    "video": "https://www.youtube.com/embed/_SXSoimaLko"
+                }
+            },
+            {
+                "key": "23-how-can-i-import-music-from-cloud-storage-services",
+                "value": {
+                    "title": "How can I import music from cloud storage services to GoMirror",
+                    "content": "<p>In order to import music from cloud storage services into GoMirror, please follow:</p> <ul><li>Install the cloud service (Google Drive, Dropbox, Box...) app on your iPhone/iPad</li><li>Open the cloud service app (Google Drive, Dropbox, Box...), login with your account</li><li>When casting music, select <b>Import</b> to open the <b>Document Picker</b> screen</li><li>On the bottom menu, find <b>Browse</b> button and tap it to return to the main screen</li><li>On the <b>Locations</b> section, lookup for Google Drive (or Dropbox) icon, tap it to browse the cloud storage screen</li><li><p>If you don't see it in the <b>Locations</b>:</p><ol><li>Tap the &#133; icon (edit button) on the top right corner</li><li> Tap  &rdquo;Edit&rdquo;</li><li>Find your services you want to add and turn it on</li><li><p>Still not clear how to do it? Please watch the following instruction video:</p></li></ul>",
+                    "video": "https://www.youtube.com/embed/_SXSoimaLko"
+                }
+            },
+            {}
+        ]
+    },
+    {
+        "category": "Slideshow",
+        "data": [
+            {
+                "key": "30-what-features-does-slideshow-support",
+                "value": {
+                    "title": "What features does Slideshow support",
+                    "content": "<p>The Slideshow feature helps you to:</p><ul><li></li> <li>Help users to create slideshows from photos they like and music they love.</li> <li>Create a slideshow from scratch or Customize one from our template gallery</li> <li>Cast them to your TVs</li></ul>"
+                }
+            },
+            {
+                "key": "31-what-kind-of-soundtrack-can-use",
+                "value": {
+                    "title": "What kind of soundtracks can I use when making slideshows",
+                    "content": "<p>When making slideshows, you can use:</p><ul><li>The fully licensed soundtracks included within the app</li> <li>Audio from your cloud storage services (Dropbox, Google Drive ...)</li> </ul>"
+                }
+            },
+            {
+                "key": "32-what-kind-of-cloud-storage-support",
+                "value": {
+                    "title": "What kind of cloud storage services does GoMirror Slideshow support",
+                    "content": "<p>For now, GoMirror Slideshow supports almost every popular cloud storgage services, including:</p><ul><li>iOS iCloud Files (default)</li> <li>Dropbox</li> <li>Google Drive</li> <li>Microsoft OneDrive</li> <li>Box (box.com)</li></ul>"
+                }
+            },
+            {
+                "key": "33-how-to-import-soundtrack",
+                "value": {
+                    "title": "How to import soundtrack from Google Drive or Dropbox when making slideshows",
+                    "content": "<p>In order to import music from Google Drive (or Dropbox) into GoMirror, please follow:</p><ul><li>Install Google Drive app on your iPhone/iPad</li> <li>Open Google Drive (Dropbox), login with your account</li> <li>When editing soundtrack, select &rdquo;Import&rdquo; to open the &rdquo;Document Picker&rdquo; screen</li> <li>On the bottom menu, find &rdquo;Browse&rdquo; button and tap it to return to the main screen</li> <li>On the &rdquo;Locations&rdquo; section, lookup for Google Drive (or Dropbox) icon, tap it to browse the cloud storage screen</li><li><p>If you don't see it in the &rdquo;Locations&rdquo;:</p><ul> <li>Tap the &rdquo;...&rdquo; icon (edit button) on the top right corner</li>   <li>Tap &rdquoEdit&rdquo</li>   <li>Find your services you want to add and turn it on</li>  </ul></li><li>Still not clear how to do it? Please watch the following instruction video:</li></ul>",
+                    "video": "https://www.youtube.com/embed/_SXSoimaLko"
+                }
+            }
+        ]
+    },{
+        "category":"Demo Videos",
+        "data":[{
+            "key":"",
+            "value":{
+                "title":"Configure DocumentPicker to import audio from Cloud Storage Services (Google Drive, Dropbox...)",
+                "content":"",
+                "video":""
+            }
+        },
+        {
+            "key":"",
+            "value":{
+                "title":"Screen Mirroring iPhone to LG TV",
+                "content":"",
+                "video":""
+            }
+        },
+        {
+            "key":"",
+            "value":{
+                "title":"Screen Mirroring iPhone to Mac (with Kodi TV)",
+                "content":"",
+                "video":""
+            }
+        },
+        {
+            "key":"",
+            "value":{
+                "title":"Screen Mirroring iPhone to Windows 10 (with Kodi TV)",
+                "content":"",
+                "video":""
+            }
+        },
+        {
+            "key":"",
+            "value":{
+                "title":"Screen Mirroring iPhone to Android phone (with Kodi TV)",
+                "content":"",
+                "video":""
+            }
+        }
+    ]
+    }
+]
