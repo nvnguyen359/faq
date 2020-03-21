@@ -10,7 +10,7 @@ let pagesData = () => {
 };
 let fakeData = (req, res, next) => {
     let body = req.body;
-    console.log(body);
+   // console.log(body);
     try {
         let  result = data();
         if (body != null) {
@@ -42,7 +42,7 @@ let pages = (req, res, next) => {
     try {
         let data = pagesData();
         const body = req.body;
-        console.log(body)
+       // console.log(body)
         if(body!=null){
             data = data.find((el)=>{
                 return el.page == body.page;

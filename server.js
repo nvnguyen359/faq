@@ -16,14 +16,19 @@ app.use(bodyParser.text());
 app.use(bodyParser.json({ type: 'application/json', limit: '50mb' }));
 app.use(bodyParser.urlencoded({ limit: '50mb', extended: true, parameterLimit: 50000 }));
 
+let urlClient = path.join(__dirname, 'build', 'index.html');
+
 app.use(express.static(path.join(__dirname, 'build')));
-app.get('/', function (req, res) {
-  //res.send('hello world');
-  res.sendFile(path.join(__dirname, 'build', 'index.html'),(err) =>{
+app.get('/*', function (req, res,next) {
+  console.log(req.originalUrl, ',',urlClient);
+  res.sendFile(urlClient,(err) =>{
     if (err) {
+      console.log(err);
       res.status(500).send(err);
     }
+    
   });
+
 });
 apis(app);
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))

@@ -4,7 +4,7 @@ module.exports = (app) =>{
     .get(fakeData)
     .post(fakeData); 
     app.route('/api/categories')
-    .get(categories);
+    .post(categories);
     app.route('/api/page')
     .post(pages);
 };
