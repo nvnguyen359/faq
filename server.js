@@ -20,7 +20,7 @@ let urlClient = path.join(__dirname, 'build', 'index.html');
 
 app.use(express.static(path.join(__dirname, 'build')));
 app.get('/*', function (req, res,next) {
-  console.log(req.originalUrl, ',',urlClient);
+ // console.log(req.originalUrl, ',',urlClient);
   res.sendFile(urlClient,(err) =>{
     if (err) {
       console.log(err);
